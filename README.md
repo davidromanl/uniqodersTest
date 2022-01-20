@@ -1,3 +1,22 @@
+# Respuestas a preguntas de la prueba:
+
+   1. ¿Cuales fueron los desafíos?
+      Encontrar los errores de la configuración.
+      Identificar como añadir la funcionalidad según la serie The Big Bang Theoryjugar con las opciones Piedra, papel, tijera, lagarto, spock
+
+   2. ¿Como los resolviste?
+      Como cada arma vence otras dos más, 
+      Dentro de las reglas se definen las variables que vence cada arma en otro arreglo 
+   
+   3. ¿Por qué lo hiciste de esta manera?
+      Para no alterar el código y conservar gran parte de su estructura y buenas prácticas.
+
+   Por lo general mi experiencia ha sido en el uso de Frameworks especialmente con CodeIgniter,
+   razón por la cual he ultilizado poco las herramientas de prueba e impresión por consola :(
+
+_______________________________________________________________________________
+
+
 # El reto
 
 Nos han encargado digitalizar un juego muy conocido en todo el mundo, desde niños a no tan niños… **¡piedra, papel o 
