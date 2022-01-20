@@ -1,0 +1,10 @@
+#!/usr/bin/env php
+<?php
+
+require __DIR__ . '/vendor/autoload.php';
+require __DIR__ . '/src/Console/GameCommand.php';
+
+$app = new Symfony\Component\Console\Application('Rock, Papel, Scissors', '1.0.0');
+$app->add(new Uniqoders\Game\Console\GameCommand);
+
+$app->run();
